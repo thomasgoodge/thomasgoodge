@@ -1,10 +1,13 @@
 ---
-title: "Publications"
+title: "Recent Publications"
 format:
   html:
     toc: false
 bibliography: refsYear.bib
 ---
+
+[My Google Scholar](https://scholar.google.com/citations?user=mzytrugAAAAJ&hl=en&oi=sra)
+
 
 ## Recent Publications
 
