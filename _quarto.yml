@@ -9,11 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
 
 format:
   html:
     theme:
-      - minty
+      - spacelab
       - brand
     css: styles.css
     toc: true

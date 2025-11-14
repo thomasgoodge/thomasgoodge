@@ -1,10 +1,10 @@
 ---
-title: "About Me"
+title: "Recent publications"
 ---
 
-Does research
+[My Google Scholar](https://scholar.google.com/citations?user=mzytrugAAAAJ&hl=en&oi=sra)
 
-test
+
 
 ```{r}
 

@@ -1,0 +1,23 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: false
+bibliography: refsYear.bib
+---
+
+## Recent Publications
+
+@kwok2025initial
+
+@mcgill2025we
+
+@goodge2025investigating
+
+@srour2024s
+
+@al2024bike
+
+@farzand2024beyond
+
+@goodge2024can

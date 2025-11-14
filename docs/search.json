@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Recent publications",
     "section": "",
-    "text": "Does research\ntest"
+    "text": "My Google Scholar"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,26 @@
     "title": "Thomas Goodge",
     "section": "",
     "text": "Research blah"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "test",
+    "section": "",
+    "text": "blah"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Kwok et al. (2025)\nMcGill et al. (2025)\nT. A. Goodge (2025)\nSrour Zreik et al. (2024)\nAl-Taie et al. (2024)\nFarzand et al. (2024)\nT. Goodge, Pollick, and Brewster (2024)"
+  },
+  {
+    "objectID": "publications.html#recent-publications",
+    "href": "publications.html#recent-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Kwok et al. (2025)\nMcGill et al. (2025)\nT. A. Goodge (2025)\nSrour Zreik et al. (2024)\nAl-Taie et al. (2024)\nFarzand et al. (2024)\nT. Goodge, Pollick, and Brewster (2024)"
   }
 ]
