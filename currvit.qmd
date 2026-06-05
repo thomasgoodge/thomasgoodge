@@ -1,0 +1,180 @@
+---
+title: "Dr Thomas Goodge"
+---
+
+[Email](mailto:thomasgoodgeresearch@gmail.com) \  
+[Github](https://github.com/thomasgoodge/) \  
+[Scholar](https://scholar.google.com/citations?user=mzytrugAAAAJ&hl=en) \ 
+[LinkedIn](https://www.linkedin.com/in/thomas-goodge-9097a6a1/) \ 
+
+
+---
+
+I am a **Research Associate** in the **Glasgow Interactive Systems Group (GIST)** within the **School of Computing Science (SoCS)** at the **University of Glasgow.** My main research interests lie in the interactions of **Cognitive Psychology** and **Human-Computer Interaction**; in particular, evaluating **visual attention** and **decision making** while engaged with **ubiquitous mixed reality** and **artificial intelligence technologies**. This ranges from investigating visual salience and perceptual processes in mixed reality, to the cognitive mechanisms used in assessing and understanding the world when using LLM/VLMs, as well as the decision making and risk appraisals that follow.
+
+---
+
+## Qualifications
+
+**2020 - 2025 — University of Glasgow (PhD), Social AI CDT**  
+*My PhD focused on creating Augmented Reality interfaces to improve driver awareness and attention while they are distracted, using empirical methods measuring cognitive processing and situational awareness. Shortlisted for SICSA Best PhD Dissertation 2025*
+
+**Thesis title:**  
+Investigating the Effects of Augmented Reality Cues During Non-Driving Related Tasks on the Situational Awareness of Drivers  
+
+**MSc Modules:** Computational Social Intelligence; Reproducible Data Skills; Cognitive Brain Imaging; Mobile Human Computer Interaction; Transdiciplinary Team Science; Automatic Analysis of Human Behaviour
+
+---
+
+**2016 - 2020 — Royal Holloway, University of London (MSc), Information Security (Distance Learning) – Merit**
+
+*Studying the role of Information Security in the world today, with a focus on cognitive processing and appraisal of risk online*
+
+**Modules:** Human Aspects of Information Security; Cybercrime; Security Management; Computer Security; Network Security; Introduction to Cryptography.
+
+---
+
+**2014 - 2015 — University of Nottingham (MSc), Psychological Research Methods – Merit**
+
+*My MSc course focused on cultivating the skills necessary to plan, conduct and evaluate psychological research in many different contexts and topics*
+
+**Modules:** Empirical Research Project; Psychological Research in Context; Advanced Research Methods; Professional Skills; Research Internship  
+
+---
+
+**2014 — Teaching English as a Foreign Language (140-hour advanced course, IARC)**  
+*Online course centered on the process of learning language, as well as the skills required to teach in a classroom and interact with students*
+
+---
+
+**2011 - 2014 — University of Nottingham, BSc (Hons) Psychology – 2:1**
+
+**Elective Modules** Practical Research Project; Cognitive Psychology in the Real World; Understanding Patterns of Action; Psychology of Digital Technology; Vision  
+
+---
+
+## Research Skills
+
+**Quantitative methods**  
+Using psychological paradigms for designing experiments, collecting and analysing behavioural, questionnaire and eye-tracking data  
+
+**Eye tracking**  
+Running laboratory, in situ, and Mixed Reality based eye-tracking. Analysing data using SMI BeGaze and Tobii ProLab and bespoke R packages  
+
+**Statistical analysis**  
+Using statistical analysis programs such as R, SPSS and JASP for advanced data wrangling, processing, and analysis, e.g., mixed effects modelling  
+
+**Programming**  
+Unity/C# for creating Mixed Reality environments, Python for experimental design, data analysis, stimuli creation  
+
+**AI Applications**  
+Deploying frontier LLMs/VLMs on local Linux servers using Ollama and HuggingFace with Python script interfaces  
+
+**Adobe Software**  
+Creating and editing high quality media and experimental stimuli using Premiere Pro, Photoshop and After Effects  
+
+**Qualitative methods**  
+Conducting semi-structured interviews, organising and collecting focus group data, transcription, and conducting thematic analysis  
+
+**Academic writing**  
+Preparation of project reports for external sponsors and manuscripts for academic publication in top journals and conference venues. Competent in both Microsoft Word and LaTeX (Overleaf)  
+
+**Dissemination**  
+Presenting scientific work at both national and international conferences through talks and poster presentations  
+
+**Academic reviewing**  
+Contributing high quality reviews to a variety of conferences (CHI; ISMAR; AutoUI) and journals (Responsible Technology)  
+
+---
+
+## Research Experience
+
+**2025–Present — University of Glasgow – Research Associate**  
+Working with Mark McGill on the “Design Against Augmented Reality Crime” (REPHRAIN), “Wearable AI” (AISI), and Augsoc (ERC Starter) projects, as well as with Mohamed Khamis on the EVERESTs project.
+
+---
+
+**2024 — Nara Institute of Science and Technology – Special Research Student**  
+Graduate Mobility funded project working with Taishi Sawabe (Interactive Media Design Lab under Hirokazu Kato) investigating passenger comfort and motion sickness in autonomous vehicles.
+
+---
+
+**2016–2020 — Nottingham Trent University – Research Assistant**  
+Assisting with QR and externally funded projects involving data collection, stimulus creation, experimental design and manuscript contribution.
+
+---
+
+
+## Funding
+
+- Graduate Mobility Fund — £2000  
+  *Awarded for research visit to IMDLab at NAIST, Japan*  
+
+- Research Student Committee — £1100  
+  *Awarded to travel to CHI 2024 conference*  
+
+---
+
+## Oral Presentations
+
+**2026 — BBC World Service – BBC Sounds**  
+Ammar Al-Taie, Thomas Goodge, Stephen Brewster  
+*TechLife: Sharing the road with driverless cars*
+
+---
+
+**2026 — Augmented Humans International Conference – Okinawa, Japan**  
+Wilson, Graham; Goodge, Thomas; O'Hagan, Joseph; McGill, Mark  
+*Towards Responsible Memory Augmentation*
+
+---
+
+**2025 — Pint of Science Festival – Glasgow, UK**  
+Thomas Goodge  
+*Seeing is Believing – or is it? Perceptual Manipulation in AR*  
+
+---
+
+**2024 — CHI Conference – Honolulu, Hawaii**  
+Thomas Goodge, Frank Pollick, Stephen Brewster  
+*AR Hazard Prediction*  
+
+---
+
+**2023 — AutomotiveUI – Ingolstadt, Germany**  
+Thomas Goodge  
+*Doctoral Colloquium*  
+
+---
+
+**2022 — Baringa Management Consulting – London, UK**  
+Thomas Goodge  
+*A psychology approach to automated driving*  
+
+---
+
+**2018 — International Conference of Applied Psychology – Montreal, Canada**  
+Goodge, T.; Crundall, D.; Kroll, V.  
+*Hazard prediction test for HGV drivers*
+
+---
+
+## Teaching and Supervision Experience
+
+**2026 — University of Glasgow – MSc Supervisor**  
+Supervised student dissertation adapted into CHI submission  
+
+**2025 — University of Glasgow – Summer Supervisor**  
+Supervised 3 interns with outputs submitted to HCI venues  
+
+**2022–2023 — University of Glasgow – Graduate Teaching Assistant**  
+Courses: Programming and Systems Development, Cybersecurity Fundamentals  
+
+**2021 — University of Glasgow – Summer School Tutor**  
+Courses: Cyber Security Fundamentals; Web Science; HCI Design and Evaluation  
+
+---
+
+## References
+
+*Available upon request*

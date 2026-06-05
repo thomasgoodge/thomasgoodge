@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+## Thomas Goodge
+
+**Research Associate** \| ️ School of Computing Science, University of Glasgow
+
+📧 [Thomas.Goodge\@glasgow.ac.uk](mailto:Thomas.Goodge@glasgow.ac.uk)\
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Thomas-Goodge) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=mzytrugAAAAJ) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasgoodge)
+
+------------------------------------------------------------------------
+
+## About Me
+
+I am a **Research Associate** in the [**Glasgow Interactive Systems Group** (GIST)](https://www.gla.ac.uk/schools/computing/research/researchsections/gist-section/) within the **School of Computing Science** (SoCS) at the **University of Glasgow,** where I completed my PhD in Psychology and Computer Science with the [Social AI Centre for Doctoral Training (CDT)](https://socialcdt.org/). My research sits at the intersection of Psychology and Human-Computer Interaction (HCI), with applications to Extended Reality (XR), and Automated Vehicles, with a particular focus on how emerging technologies can be designed to be safer, more ethical, and more human-centred.
+
+------------------------------------------------------------------------
+
+## Research Interests
+
+My main research interests lie in the interactions of **Cognitive Psychology** and **Human-Computer Interaction**; in particular, evaluating **visual attention** and **decision making** while engaged with **ubiquitous** **mixed reality** and **artificial intelligence** technologies. This ranges from investigating visual salience and perceptual processes in mixed reality, to the cognitive mechanisms used in assessing and understanding the world when using LLM/VLMs, as well as the decision making and risk appraisals that follow.My work spans several interconnected themes:
+
+**Augmented Reality & Automated Driving**
+
+During my PhD, I investigate how AR can be used to help drivers of semi-autonomous vehicles stay aware of the road, supervised by Prof. Stephen Brewster and Prof. Frank Pollick. A key challenge is that drivers of Level 3 automated vehicles are neither fully in control nor fully passengers: they can engage in non-driving tasks but must be ready to retake control at any moment. My research explores how AR heads-up displays (HUDs) can support situational awareness while allowing drivers to remain engaged with other activities, as well as exploring how to design Take-Over Requests (TORs) External Human-Machine Interfaces (eHMIs) to aid in communication information about the vehicle to the driver or other road users.\
+
+**Responsible XR**\
+I am interested in the ethical dimensions of extended reality, exploring how to predict and pre-empt harmful uses of XR and whether the HCI field needs a dedicated framework for Responsible XR to address the unique risks posed by wearable AI-enabled AR glasses and immersive XR devices.
+
+**Hazard Perception & Driver Assessment**\
+Earlier in my research career at Nottingham Trent University I worked on developing hazard perception and prediction tests with Prof Crundall (NTU School of Psychology) and Dr Victoria Kroll (eSitu founder and CEO), including the design and empirical evaluation of tools for assessing and training emergency response drivers, providing mindfulness intervention for road safety and road rage, and the application of hazard prediction test into a VR presentation format.
+
+------------------------------------------------------------------------
+
+## Contact
+
+Feel free to get in touch via email at [Thomas.Goodge\@glasgow.ac.uk](mailto:Thomas.Goodge@glasgow.ac.uk) or [thomasgoodgeresearch\@gmail.com](mailto:thomasgoodgeresearch@gmail.com).
+
+University of Glasgow\
+School of Computing Science\
+Glasgow, Scotland, UK

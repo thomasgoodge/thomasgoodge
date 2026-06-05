@@ -1,0 +1,157 @@
+---
+title: "Publications"
+---
+```{r setup, include=FALSE}
+library(dplyr)
+library(glue)
+library(httr2)
+
+ORCID_ID       <- "0000-0001-6229-7936"
+HIGHLIGHT      <- "Goodge, T"   # as it appears in APA format
+
+# ── Fetch works list from ORCID (we only need DOIs and years) ────────────────
+fetch_orcid_dois <- function(orcid_id) {
+  message("Fetching ORCID works list...")
+  resp <- request(glue("https://pub.orcid.org/v3.0/{orcid_id}/works")) |>
+    req_headers(Accept = "application/json") |>
+    req_perform()
+
+  groups <- resp_body_json(resp)$group
+
+  bind_rows(lapply(groups, function(g) {
+    summary <- g$`work-summary`[[1]]
+
+    # Year
+    year <- tryCatch(
+      as.integer(summary$`publication-date`$year$value),
+      error = function(e) NA_integer_
+    )
+
+    # DOI from external IDs
+    doi <- tryCatch({
+      ids <- summary$`external-ids`$`external-id`
+      doi_entry <- Filter(function(x) x$`external-id-type` == "doi", ids)
+      if (length(doi_entry) > 0) doi_entry[[1]]$`external-id-value` else NA_character_
+    }, error = function(e) NA_character_)
+
+    data.frame(doi = doi, year = year, stringsAsFactors = FALSE)
+  })) |>
+    filter(!is.na(doi), !is.na(year)) |>
+    arrange(desc(year))
+}
+
+# ── Fetch APA citation for a single DOI via doi.org content negotiation ──────
+fetch_apa <- function(doi) {
+  tryCatch({
+    resp <- request(glue("https://doi.org/{doi}")) |>
+      req_headers(Accept = "text/x-bibliography; style=apa") |>
+      req_perform()
+    stringr::str_trim(resp_body_string(resp))
+  }, error = function(e) {
+    message("  Could not fetch APA for: ", doi)
+    NA_character_
+  })
+}
+
+# ── Cache wrapper ─────────────────────────────────────────────────────────────
+cache_file <- "_pubs_cache.rds"
+
+if (file.exists(cache_file) &&
+    difftime(Sys.time(), file.mtime(cache_file), units = "days") < 7) {
+  message("Using cached publications data")
+  pubs <- readRDS(cache_file)
+} else {
+  dois <- fetch_orcid_dois(ORCID_ID)
+
+  message(glue("Fetching APA citations for {nrow(dois)} works..."))
+  dois$apa <- sapply(seq_len(nrow(dois)), function(i) {
+    Sys.sleep(0.2)
+    fetch_apa(dois$doi[i])
+  })
+
+  pubs <- dois |> filter(!is.na(apa))
+  saveRDS(pubs, cache_file)
+  message("Done — cached to ", cache_file)
+}
+```
+
+```{r render-pubs, echo=FALSE, results='asis'}
+cat('
+<style>
+.pub-entry {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.pub-entry:last-of-type {
+  border-bottom: none;
+}
+.pub-apa {
+  margin-bottom: 0.4rem;
+}
+.pub-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 0.4rem;
+}
+.pub-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  color: white !important;
+}
+.pub-badge:hover { opacity: 0.85; }
+.badge-doi { background-color: #0076be; }
+</style>
+')
+
+years <- sort(unique(pubs$year), decreasing = TRUE)
+
+for (yr in years) {
+  cat(glue('\n\n## {yr}\n\n'))
+  yr_pubs <- pubs |> filter(year == yr)
+
+  for (i in seq_len(nrow(yr_pubs))) {
+    p <- yr_pubs[i, ]
+
+   apa_html <- gsub(
+      HIGHLIGHT,
+      glue('<strong>{HIGHLIGHT}</strong>'),
+      htmltools::htmlEscape(p$apa)
+    )
+
+    # Make the title a hyperlink to the DOI (replaces underline)
+    apa_html <- gsub(
+      "(\\(\\d{4}\\)\\. )([^.]+\\.)",
+      glue("\\1<a href='https://doi.org/{p$doi}' target='_blank' rel='noopener'>\\2</a>"),
+      apa_html
+    )
+
+    # Italicise the venue
+    apa_html <- gsub(
+      "(</a> )([^,.]+)",
+      "\\1<em>\\2</em>",
+      apa_html
+    )
+
+    # Remove the trailing DOI URL from the string entirely
+    apa_html <- gsub(
+      " https://doi\\.org/[^\\s<]+",
+      "",
+      apa_html
+    )
+
+    cat(glue('
+<div class="pub-entry">
+  <p class="pub-apa">{apa_html}</p>
+</div>
+'))
+  }
+}
+```

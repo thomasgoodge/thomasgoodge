@@ -1,0 +1,111 @@
+---
+title: "Publications"
+---
+
+## 2026
+
+**ARe you watching the road? Comparing Gaze Behaviour and Hazard Prediction between Heads-Up and Heads-Down NDRT Presentation in Augmented Reality**\
+Goodge, T., Pollick, F., & Brewster, S.\
+*ACM Transactions on Applied Perception*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/10.1145/3807942) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://doi.org/10.1145/3807942)
+
+------------------------------------------------------------------------
+
+**Towards Responsible Memory Augmentation: Surveying the Intended Uses of Everyday Augmented Reality and Artificial Intelligence for Memory Processes**\
+Wilson, G., Goodge, T., O'Hagan, J., & McGill, M.\
+*CHI 2026*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/10.1145/3795011.3795018) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+**Running into Traffic: Investigating External Human-Machine Interfaces for Automated Vehicle-Runner Interaction**\
+Al-Taie, A., Goodge, T., Macdonald, S., & Brewster, S.\
+*CHI 2026*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/10.1145/3772318.3790401) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+**An investigation into driver's perceptions of road flooding and adherence to signage**\
+Watkins, M., Bathaei Javareshk, M., Goodge, T., & Crundall, D.\
+*Transportation Research Part F: Traffic Psychology and Behaviour*\
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2F-blue?style=flat)](https://doi.org/10.1016/j.trf.2026.103639) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+## 2025
+
+**Do We Need Responsible XR? Drawing on Responsible AI to Inform Ethical Research and Practice into XRAI / the Metaverse**\
+McGill, M., O'Hagan, J., Goodge, T., & Gugenheimer, J.\
+*CHI 2025 Workshop: Everyday AR through AI-in-the-Loop* · Position Paper\
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://www.researchgate.net/publication/390570438)
+
+------------------------------------------------------------------------
+
+**Investigating the effects of augmented reality cues during non-driving related tasks on the situational awareness of drivers**\
+Goodge, T.,\
+*University of Glasgow Enlighten Repository* · PhD Thesis\
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://https://theses.gla.ac.uk/84942/)
+
+------------------------------------------------------------------------
+
+## 2024
+
+**Can You Hazard a Guess?: Evaluating the Effect of Augmented Reality Cues on Driver Hazard Prediction**\
+Goodge, T., Pollick, F., & Brewster, S.\
+*CHI 2024*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/10.1145/3613904.3642300) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://www.researchgate.net/publication/379839876)
+
+------------------------------------------------------------------------
+
+**Where's my TOR?: Evaluating the Effect of Take-Over Request Source on Older Drivers' Control Transition in Level 3 Cars**\
+Srour Zreik, R., Goodge, T., Harvey, M., & Brewster, S.\
+*Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://www.researchgate.net/publication/384300864)
+
+------------------------------------------------------------------------
+
+**Bike to the Future: Designing Holistic Autonomous Vehicle-Cyclist Interfaces**\
+Al-Taie, A., Wilson, G., Goodge, T., Pollick, F., & Brewster, S.\
+*AutomotiveUI 2024*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+**Beyond Aesthetics: Evaluating Response Widgets for Reliability & Construct Validity of Scale Questionnaires**\
+Farzand, H., Al Baiaty Suarez, D., Goodge, T., & Al Awadi, A.\
+*CHI 2024*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+## 2023
+
+**Enhancing Explainability of Automated Vehicles with Culturally-Aware HMIs**\
+Goodge, T., Li, J., Patel, S., & Kim, S.\
+*AutomotiveUI 2023*\
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+**Cyborgs on the Road: Workshop on Augmenting Road Users to Quantify their Behaviour**\
+Al-Taie, A., Pöhlmann, K., Goodge, T., & Brewster, S.\
+*CHI 2023 Workshop*\
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://www.researchgate.net/publication/369245977)
+
+------------------------------------------------------------------------
+
+## 2021
+
+**A comparison of cybersickness symptoms across 360-degree hazard perception and hazard prediction tests for drivers**\
+Goodge, T., Kroll, V., Vernon, M., & Crundall, D.\
+*Applied Ergonomics*\
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+
+------------------------------------------------------------------------
+
+## 2020
+
+**Creating a hazard-based training and assessment tool for emergency response drivers**\
+Kroll, V., Mackenzie, A. K., Goodge, T., & Crundall, D.\
+*Accident Analysis & Prevention*\
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2F-blue?style=flat)](https://doi.org/#) [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white)](#)

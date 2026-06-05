@@ -1,0 +1,79 @@
+---
+title: "Dr Thomas Goodge"
+---
+
+**Research Associate**  
+*Glasgow Interactive Systems Group (GIST), School of Computing Science, University of Glasgow*
+
+[Email](mailto:thomasgoodgeresearch@gmail.com) | 
+[GitHub](https://github.com/thomasgoodge/) | 
+[Scholar](https://scholar.google.com/citations?user=mzytrugAAAAJ&hl=en) | 
+[LinkedIn](https://www.linkedin.com/in/thomas-goodge-9097a6a1/)
+
+---
+
+## Profile
+
+I am a **Research Associate** in the **Glasgow Interactive Systems Group (GIST)**. My research explores the interaction between **Cognitive Psychology** and **Human–Computer Interaction**, focusing on:
+
+- Visual attention  
+- Decision-making  
+- Mixed reality and AI systems  
+
+This includes work on **visual salience**, **LLMs/VLMs**, and **risk appraisal in AI-mediated environments**.
+
+---
+
+## Qualifications
+
+### 2020–2025 — PhD, University of Glasgow (Social AI CDT)
+- Focus: Augmented Reality interfaces for driver awareness  
+- Methods: Cognitive processing + situational awareness  
+- *Shortlisted: SICSA Best PhD Dissertation 2025*
+
+**Thesis**  
+*Investigating the Effects of Augmented Reality Cues During Non-Driving Related Tasks on the Situational Awareness of Drivers*
+
+---
+
+### 2016–2020 — MSc Information Security (Merit)  
+Royal Holloway, University of London (Distance Learning)
+
+- Focus: Cognitive processing and risk online  
+- Modules:
+  - Human Aspects of Information Security  
+  - Cybercrime  
+  - Security Management  
+  - Computer Security  
+  - Cryptography  
+
+---
+
+### 2014–2015 — MSc Psychological Research Methods (Merit)  
+University of Nottingham  
+
+- Focus: Research design and evaluation across psychological domains  
+- Modules:
+  - Empirical Research Project  
+  - Advanced Research Methods  
+  - Internship  
+
+---
+
+### 2014 — TEFL (140-hour Advanced Course)
+
+---
+
+### 2011–2014 — BSc (Hons) Psychology (2:1)  
+University of Nottingham  
+
+- Key modules:
+  - Cognitive Psychology in the Real World  
+  - Psychology of Digital Technology  
+  - Vision  
+
+---
+
+## Research Skills
+
+**Quantitative Methods**  
