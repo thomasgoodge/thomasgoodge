@@ -1,1 +1,1 @@
-Sitemap: https://thomasgoodge.github.io/thomasgoodge/sitemap.xml
+Sitemap: https://thomasgoodge.github.io/sitemap.xml
